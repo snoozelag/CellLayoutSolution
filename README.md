@@ -5,9 +5,9 @@
 )](http://mit-license.org)
 [![Twitter](https://img.shields.io/badge/twitter-@snoozelag-blue.svg?style=flat)](http://twitter.com/snoozelag)
 
-This is a sample project for an article that addresses the UIView-Encapsulated-Layout-Height error in UITableViewCell.
+This is a sample project for an article that addresses the "UIView-Encapsulated-Layout-Height" error in UITableViewCell.
 
-[UITableViewCell での UIView-Encapsulated-Layout-Height 制約との競合エラーに対処する](https://github.com/snoozelag/CellLayoutSolution)
+[UITableViewCell での UIView-Encapsulated-Layout-Height 制約との競合エラーに対処する](https://qiita.com/snoozelag/items/43c7c5f93de5f41eef01)
 
 ## Requirements
 
